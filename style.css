@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0d1117;
+    color: #c9d1d9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #161b22;
+    padding: 20px;
+}
+
+.profile img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #c9d1d9;
+}
+
+h1, h2 {
+    color: #58a6ff;
+}
+
+section {
+    margin: 30px 0;
+    padding: 20px;
+    background-color: #161b22;
+    border-radius: 10px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #21262d;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+a {
+    color: #58a6ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
