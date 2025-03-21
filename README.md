@@ -1,69 +1,79 @@
-# Jordan Josserand | GitHub Profile
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github.com/jojo-jrd.png" alt="Profile" height="150" style="border-radius : 50%;" />
-</div>
+<h1 align="center">Jordan Josserand</h1>
+<h3 align="center">French full-stack developer</h3>
 
 
-<div style="display: flex; padding: 0 30px; margin-top: 10px; justify-content: center;">
-    <div style="background-color : #c9eccd; color : black; padding : 10px; border-radius : 4px; border: 1px solid #69ca74;">
-        <div style="width : 100%; text-align: center; font-size : 1.4rem; font-weight: 500; margin-bottom: 10px;">Full Stack Developer | Front-End Enthusiast</div>
-        <p style="margin-bottom: 0px;">
-        Passionate developer specialized in front-end development. I love working with modern web technologies and building engaging user experiences.
-        </p>
-    </div>
-</div>
+<h3 align="left">Projects</h3>
 
 
-## Technologies I Use
+- 🤖 AI Project: [AI - No Toxicity](https://github.com/jojo-jrd/ensimag-AI-No_Toxicity) - Developing an AI model to detect toxic content.  
+- 🎰 Casino Website: [CasiDio](https://github.com/jojo-jrd/ensimag-CasiDio) - A casino-themed web application built with React.   
+- 📊 Open Data Challenge: [Open Data Challenge](https://github.com/jojo-jrd/ensimag-challenge-open-data) - Working on data analysis and visualization using D3.js.  
+- 🎮 Game Jam: [Growse](https://github.com/jojo-jrd/iut2-gamejam-growse) - Developing a video game during a Game Jam with PyGame.  
+- 📱 Educational Android App: [Loustics Application](https://github.com/jojo-jrd/iut2-android-java-loustics) - An Android Java application designed to offer educational exercises for children.  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="./images/html.svg" alt="HTML5" height="50" style="margin: 10px;" />
-    <img src="./images/css.svg" alt="CSS3" height="50" style="margin: 10px;" />
-    <img src="./images/js.png" alt="JavaScript" height="50" style="margin: 10px;" />
-    <img src="./images/ts.svg" alt="TypeScript" height="50" style="margin: 10px;" />
-    <img src="./images/react.svg" alt="React" height="50" style="margin: 10px;" />
-    <img src="./images/angular.svg" alt="Angular" height="50" style="margin: 10px;" />
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="./images/nodejs.svg" alt="Node.js" height="50" style="margin: 10px;" />
-    <img src="./images/express.png" alt="Express.js" height="50" style="margin: 10px;" />
-    <img src="./images/php.svg" alt="PHP" height="50" style="margin: 10px;" />
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="./images/python.svg" alt="Python" height="50" style="margin: 10px;" />
-    <img src="./images/java.svg" alt="Java" height="50" style="margin: 10px;" />
-    <img src="./images/kotlin.svg" alt="Kotlin" height="50" style="margin: 10px;" />
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="./images/mysql.svg" alt="MySQL" height="50" style="margin: 10px;" />
-    <img src="./images/postresql.svg" alt="PostgreSQL" height="50" style="margin: 10px;" />
-    <img src="./images/oracle.svg" alt="Oracle" height="50" style="margin: 10px;" />
-    <img src="./images/sqlite.svg" alt="SQlite" height="50" style="margin: 10px;" />
+<h3 align="left">Languages and Tools:</h3>
 
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="./images/docker.svg" alt="Docker" height="50" style="margin: 10px;" />
-    <img src="./images/git.svg" alt="Git" height="50" style="margin: 10px;" />
-    <img src="./images/linux.svg" alt="Linux" height="50" style="margin: 10px;" />
-</div>
+<h4 align="left">Frontend</h4>
+<p align="left">
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
 
 
-## My Recent Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin:10px; padding: 10px; border : 1px solid #efefed; border-radius : 4px;"><a href="https://github.com/jojo-jrd/ensimag-AI-No_Toxicity" target="_blank">ensimag-AI-No_Toxicity</a></div>
-    <div style="margin:10px; padding: 10px; border : 1px solid #efefed; border-radius : 4px;"><a href="https://github.com/jojo-jrd/ensimag-CasiDio" target="_blank">ensimag-CasiDio</a></div>
-    <div style="margin:10px; padding: 10px; border : 1px solid #efefed; border-radius : 4px;"><a href="https://github.com/jojo-jrd/ensimag-challenge-open-data" target="_blank">ensimag-challenge-open-data</a></div>
-    <div style="margin:10px; padding: 10px; border : 1px solid #efefed; border-radius : 4px;"><a href="https://github.com/jojo-jrd/iut2-gamejam-growse" target="_blank">iut2-gamejam-growse</a></div>
-    <div style="margin:10px; padding: 10px; border : 1px solid #efefed; border-radius : 4px;"><a href="https://github.com/jojo-jrd/workshop_ensimag" target="_blank">workshop_ensimag</a></div>
-</div>
+<h4 align="left">Backend</h4>
+<p align="left">
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+</p>
 
+<h4 align="left">Databases</h4>
+<p align="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
+</p>
 
-## GitHub Stats
+<h4 align="left">Programming Languages</h4>
+<p align="left">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jojo-jrd&show_icons=true&theme=dark" alt="GitHub Stats" style="margin : 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo-jrd&layout=compact&theme=dark" alt="GitHub Top Languages" style="margin : 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-jrd&theme=dark" alt="GitHub Streak" style="margin : 10px;">
-</div>
+<h4 align="left">Mobile</h4>
+<p align="left">
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+    <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a>
+    <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+</p>
+
+<h4 align="left">Tools</h4>
+<p align="left">
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jojo-jrd&show_icons=true&theme=dark&title_color=ff0000&locale=en&layout=compact" alt="jojo-jrd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jojo-jrd&show_icons=true&theme=dark&title_color=ff0000&locale=en" alt="jojo-jrd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-jrd&theme=dark" alt="jojo-jrd" /></p>
+
+<h3 align="left">Social networks</h3>
+<p>
+    <a href="https://www.linkedin.com/in/jordan-josserand-93083b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jordan Josserand" height="30" width="40" /></a>
+</p>
