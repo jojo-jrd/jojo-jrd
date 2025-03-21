@@ -1,6 +1,11 @@
 <h1 align="center">Jordan Josserand</h1>
 <h3 align="center">French full-stack developer</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/in/jordan-josserand-93083b216" target="blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 
+</div>
 
 <h3 align="left">Projects</h3>
 
@@ -67,13 +72,8 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jojo-jrd&show_icons=true&theme=dark&title_color=ff0000&locale=en&layout=compact" alt="jojo-jrd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jojo-jrd&show_icons=true&theme=dark&title_color=ff0000&locale=en" alt="jojo-jrd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-jrd&theme=dark" alt="jojo-jrd" /></p>
-
-<h3 align="left">Social networks</h3>
-<p>
-    <a href="https://www.linkedin.com/in/jordan-josserand-93083b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jordan Josserand" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jojo-jrd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jojo-jrd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jojo-jrd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
